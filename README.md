@@ -25,7 +25,7 @@ Round n: Continue the process until a final pod reaches a certain of accuracy le
 Author: Michael D.
 
 
-Currently stage:
+Current stage:
 (Completed) Step up devices
 () Selet Cloud Platform 
 () Construct the codes for difference rounds
